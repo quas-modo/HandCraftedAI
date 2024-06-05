@@ -10,8 +10,8 @@
 2. 写一下PCA的代码
 3. 写一下KNN的代码
 ## 深度学习
-1. 手写NMS，会延伸出来 Soft NMS
-2. 手写IoU
+1. 手写NMS，会延伸出来 Soft NMS(NMS-Non-Maximum Suppression 非极大值抑制)
+2. 手写IoU-Intersection over Union
 3. 实现mnist手写数字识别
 4. 手撕反向传播
 5. 代码实现各种优化器Optimizer
@@ -20,5 +20,9 @@
 8. RNN
 9. CNN
 10. Transformer Multihead
+11. Cross-Attention
+12. Unet
+13. FPN-Feature Pyramid Network 特征金字塔网络
+
 ## 参考资料
 https://zhuanlan.zhihu.com/p/666849216

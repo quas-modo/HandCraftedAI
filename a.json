@@ -1,0 +1,6 @@
+{
+    "name": "quasdo",
+    "age": 25,
+    "city": "Nanjing",
+    "skills": ["Python", "c++", "Vue.js"]
+}
